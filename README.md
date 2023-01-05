@@ -1,1 +1,0 @@
-# review-slider-react-proje
